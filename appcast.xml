@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.0.3</title>
+      <pubDate>Fri, 17 Jul 2026 07:18:13 +0000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[The app is now self-contained — everything it needs to connect ships inside the bundle. First step toward one-link installs for teammates.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.0.3/CloudStationConnect-1.0.3.zip"
+                 length="31316546"
+                 type="application/octet-stream"
+                 sparkle:edSignature="RpKXwGfJSVosoyWFAgwaO4Tp197CvusbOxIehcHcSFNBM4HxCjrJRV8itRRFlqwJ1RKF+K1e5swWEFXXX8dgAw=="/>
+    </item>
+    <item>
       <title>1.0.2</title>
       <pubDate>Fri, 17 Jul 2026 07:00:21 +0000</pubDate>
       <sparkle:version>41</sparkle:version>
