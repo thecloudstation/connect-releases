@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.1.1</title>
+      <pubDate>Fri, 17 Jul 2026 09:48:34 +0000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes the Connect this Mac flow getting stuck when opened from the menu bar — it now opens in its own window. If the app is currently unresponsive, quit it from Activity Monitor and reopen.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.1.1/CloudStationConnect-1.1.1.zip"
+                 length="31381813"
+                 type="application/octet-stream"
+                 sparkle:edSignature="nh8qa2+Em85y3cqhQoBQABtzbYOZakJq4NIryDxsmDRMz1Wu6ZCRe00TeumEtRWvwKo9SzlbW2BKsTyiZIoOAw=="/>
+    </item>
+    <item>
       <title>1.1.0</title>
       <pubDate>Fri, 17 Jul 2026 09:24:31 +0000</pubDate>
       <sparkle:version>44</sparkle:version>
