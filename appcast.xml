@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.1.0</title>
+      <pubDate>Fri, 17 Jul 2026 09:24:31 +0000</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Connect this Mac from the app: sign in, click one button, and this Mac joins your network — no terminal needed. The menu bar now tells you when this Mac isn't on your network yet.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.1.0/CloudStationConnect-1.1.0.zip"
+                 length="31376244"
+                 type="application/octet-stream"
+                 sparkle:edSignature="0BJ1Gak5FmCnN0WBpAPF/1eftX/pt7whcowVSlNyKQvRHDtnlHJoZt6aIWw/hjLth+S73VxOnR2ZMTcCPE7/AA=="/>
+    </item>
+    <item>
       <title>1.0.3</title>
       <pubDate>Fri, 17 Jul 2026 07:18:13 +0000</pubDate>
       <sparkle:version>42</sparkle:version>
