@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.2.0</title>
+      <pubDate>Sat, 18 Jul 2026 09:06:53 +0000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Add a device can now join a Linux server over SSH: pick Linux server, enter user@host and the password, and the app installs the agent and connects the machine to your network. Linux boxes can also join with a one-line install command using any device code.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.2.0/CloudStationConnect-1.2.0.zip"
+                 length="31434892"
+                 type="application/octet-stream"
+                 sparkle:edSignature="E5Aj0NvR7g4+dDUU1M/Y2C9Q76l41fiPg8a4wPCuRuuOaWFzKS4K11kwoOte6abk9PbPrvL/6bvac8be5KX5Dw=="/>
+    </item>
+    <item>
       <title>1.1.1</title>
       <pubDate>Fri, 17 Jul 2026 09:48:34 +0000</pubDate>
       <sparkle:version>46</sparkle:version>
