@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.8.1</title>
+      <pubDate>Wed, 22 Jul 2026 16:56:09 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Browsing from another machine now covers everything: sites that preferred your direct connection (like YouTube) follow the place you picked too. Everything returns to normal the moment you switch back.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.8.1/CloudStationConnect-1.8.1.zip"
+                 length="31798797"
+                 type="application/octet-stream"
+                 sparkle:edSignature="IeENuRieI+049YbRfTLTfooC2LYCAsBNb8/KzeEgVBIVINmsc9KuKv9eRoV6la9K6ZuRDyCitTjYyGYYimiNAQ=="/>
+    </item>
+    <item>
       <title>1.8.0</title>
       <pubDate>Wed, 22 Jul 2026 16:42:23 +0000</pubDate>
       <sparkle:version>79</sparkle:version>
