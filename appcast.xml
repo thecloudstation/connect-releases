@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.7.0</title>
+      <pubDate>Wed, 22 Jul 2026 14:18:39 +0000</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Your Mac can now browse from another of your machines: pick one and both your connection and your lookups come from its location. Also hardens the connection path between your device and the machine you picked.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.7.0/CloudStationConnect-1.7.0.zip"
+                 length="31757930"
+                 type="application/octet-stream"
+                 sparkle:edSignature="EIfmjbdC9ojUhdn6PZb0GhuFKpSsi2pQ/GoT0NtvX6yIrd80I+d22mgfPNX6t5ISvzzr9KsPJH9PBSNfG/BTBA=="/>
+    </item>
+    <item>
       <title>1.6.0</title>
       <pubDate>Wed, 22 Jul 2026 13:31:58 +0000</pubDate>
       <sparkle:version>70</sparkle:version>
