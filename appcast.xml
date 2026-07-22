@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.5.0</title>
+      <pubDate>Wed, 22 Jul 2026 13:08:23 +0000</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Linux agents can now carry another of your devices' internet connection — groundwork for Browse From (pick a country by picking a machine). No Mac app changes.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.5.0/CloudStationConnect-1.5.0.zip"
+                 length="31705009"
+                 type="application/octet-stream"
+                 sparkle:edSignature="RPpfvBFmzp/jUxb3vWruuffUudSZsGIgqL3+nbHekvvQCIGiMFx9pClyB9s+mzvo/t4QT1+8zt0TK23Fqcv1Bw=="/>
+    </item>
+    <item>
       <title>1.4.0</title>
       <pubDate>Tue, 21 Jul 2026 15:06:20 +0000</pubDate>
       <sparkle:version>65</sparkle:version>
