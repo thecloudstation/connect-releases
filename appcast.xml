@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.7.1</title>
+      <pubDate>Wed, 22 Jul 2026 16:27:41 +0000</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes browsing from another machine on Macs with more than one active network connection: name lookups now follow the machine you picked on all of them.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.7.1/CloudStationConnect-1.7.1.zip"
+                 length="31760414"
+                 type="application/octet-stream"
+                 sparkle:edSignature="vgGZKphj/8+O7b136VdVO76U/K+JiZVQI11NM+43nA4HOaqc0XZUFI64hgsZE4rzvLldESUmlgpD+L2/taXiAA=="/>
+    </item>
+    <item>
       <title>1.7.0</title>
       <pubDate>Wed, 22 Jul 2026 14:18:39 +0000</pubDate>
       <sparkle:version>74</sparkle:version>
