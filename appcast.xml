@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.10.0</title>
+      <pubDate>Thu, 23 Jul 2026 13:40:19 +0000</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Gateways can now advertise the networks behind them right from device detail (admins). Devices that can't carry your traffic can no longer be offered or picked as places. A machine with a broken exit now recovers to direct on its own instead of losing its connection. File drop only lights up devices that can actually receive, and tells you exactly what to ask for when they can't. The window shows a banner when your network can't be reached instead of devices silently going offline. The share sheet now says why Share is disabled.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.10.0/CloudStationConnect-1.10.0.zip"
+                 length="32015462"
+                 type="application/octet-stream"
+                 sparkle:edSignature="xhnRRHGwegw0qVkVDH4CMgOkmb0x6jOhFb2OciXlMZyLJhb+ioovh4Va0Ubc3XUb0AacRdRJ0knaprcLAlkSDQ=="/>
+    </item>
+    <item>
       <title>1.9.1</title>
       <pubDate>Thu, 23 Jul 2026 07:35:06 +0000</pubDate>
       <sparkle:version>97</sparkle:version>
