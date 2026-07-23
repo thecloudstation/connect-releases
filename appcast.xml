@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.9.1</title>
+      <pubDate>Thu, 23 Jul 2026 07:35:06 +0000</pubDate>
+      <sparkle:version>97</sparkle:version>
+      <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes the Dock icon not opening the main window on first click.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.9.1/CloudStationConnect-1.9.1.zip"
+                 length="31962571"
+                 type="application/octet-stream"
+                 sparkle:edSignature="OJFl5+IEm1tXkS3qMomUjioPNtKwizrAc/RLrTIQtCfi+7eQucQZxfabrwP+fuJONenFCI22ON0ndEraf7otCw=="/>
+    </item>
+    <item>
       <title>1.9.0</title>
       <pubDate>Thu, 23 Jul 2026 07:28:39 +0000</pubDate>
       <sparkle:version>96</sparkle:version>
