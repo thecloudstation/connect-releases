@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.9.0</title>
+      <pubDate>Thu, 23 Jul 2026 07:28:39 +0000</pubDate>
+      <sparkle:version>96</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Mac App v2: CloudStation Connect is a real Dock app — one window with Home, Devices (search + always-visible detail), Browse From (pick a location, offer your machines), Files (drop zone, transfers, received), and Settings. The menu-bar popover slims to glance-and-switch with the Browsing From chip. Also since v1.8.1: iOS Browse From device-proven, tvOS Watch From app, shared underlay-escape fixes.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.9.0/CloudStationConnect-1.9.0.zip"
+                 length="31959299"
+                 type="application/octet-stream"
+                 sparkle:edSignature="Pv2CejjbLPt5f+U3TnV2CbUu0xm5GCsKG1f3F+lCYYg9BcB7o399NxOPkaAHbIGMAEHE+jZQUl6TXCgRd5LFAw=="/>
+    </item>
+    <item>
       <title>1.8.1</title>
       <pubDate>Wed, 22 Jul 2026 16:56:09 +0000</pubDate>
       <sparkle:version>81</sparkle:version>
