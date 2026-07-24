@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.10.3</title>
+      <pubDate>Fri, 24 Jul 2026 12:58:16 +0000</pubDate>
+      <sparkle:version>121</sparkle:version>
+      <sparkle:shortVersionString>1.10.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[More network resilience fixes: if 'Browse from' is interrupted, your place now switches back on automatically once the connection recovers (previously it could get stuck off). Includes the earlier auto-recovery and network-change reconnection improvements.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.10.3/CloudStationConnect-1.10.3.zip"
+                 length="32029612"
+                 type="application/octet-stream"
+                 sparkle:edSignature="WELbWAS1FxIKUCvuXt4Nsb2bKWn5pwfiV90P/dIzUeKosC4SbRXOk3wGjT2nxmntTe+GEjbg5+iXUbRgZpZQCQ=="/>
+    </item>
+    <item>
       <title>1.10.2</title>
       <pubDate>Fri, 24 Jul 2026 11:56:45 +0000</pubDate>
       <sparkle:version>119</sparkle:version>
