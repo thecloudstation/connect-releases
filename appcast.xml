@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.10.2</title>
+      <pubDate>Fri, 24 Jul 2026 11:56:45 +0000</pubDate>
+      <sparkle:version>119</sparkle:version>
+      <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes for network resilience: a broken 'Browse from' place no longer takes your internet down (auto-recovers within a minute); the mesh reconnects itself when your Mac changes networks; exit machines running Docker now forward traffic correctly.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.10.2/CloudStationConnect-1.10.2.zip"
+                 length="32028626"
+                 type="application/octet-stream"
+                 sparkle:edSignature="ZCcXJpnf+/ramn+FptWQnSclH5vtxhL1b2+YP83/Z9KlACtV/j2wHn8SRHVVX/2f2g83TFP1TFldfIEPypWqDg=="/>
+    </item>
+    <item>
       <title>1.10.1</title>
       <pubDate>Thu, 23 Jul 2026 13:50:17 +0000</pubDate>
       <sparkle:version>112</sparkle:version>
