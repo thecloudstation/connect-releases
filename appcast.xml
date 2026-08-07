@@ -6,6 +6,24 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.11.0</title>
+      <pubDate>Fri, 07 Aug 2026 18:05:12 +0000</pubDate>
+      <sparkle:version>154</sparkle:version>
+      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Your machines, from anywhere.
+
+• Open a terminal on any Mac or Linux machine, from the app or your iPhone.
+• See and control a Mac's screen — it wakes its own display when you connect.
+• Linux machines now have a desktop you can step into, even with nobody logged in.
+• Screens: a live view of everything you own, in one place.
+• Connections are steadier on networks that block devices from talking to each other.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.11.0/CloudStationConnect-1.11.0.zip"
+                 length="33981862"
+                 type="application/octet-stream"
+                 sparkle:edSignature="VFGmTzcA1+CW8Enh4IH1grAw5Ka10dGkWf1dghJ5N39l1ZETLq+S40CA2Cq32xtXcQ55Cz50Gj7Gk6JHdYJ4CQ=="/>
+    </item>
+    <item>
       <title>1.10.3</title>
       <pubDate>Fri, 24 Jul 2026 12:58:16 +0000</pubDate>
       <sparkle:version>121</sparkle:version>
