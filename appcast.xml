@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.12.0</title>
+      <pubDate>Fri, 07 Aug 2026 19:46:27 +0000</pubDate>
+      <sparkle:version>165</sparkle:version>
+      <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Your terminal grew up. Sessions now survive disconnects — close the window, lose signal, come back, and you pick up exactly where you left off. On the Mac the terminal is a real window with tabs and text-size controls; on iPhone you get saved commands above the keyboard and a proper key bar. And a terminal opened to your Mac now lands in your own account, with your own tools, instead of the system account.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.12.0/CloudStationConnect-1.12.0.zip"
+                 length="34022080"
+                 type="application/octet-stream"
+                 sparkle:edSignature="72hNCT76ea5xf9y2hu+iUGDJpvygADqS1suNobrBKIuKvKDjGyfAZ4Do5Y4aEu/heX5fixJDVnzVtVUSw5IyCQ=="/>
+    </item>
+    <item>
       <title>1.11.0</title>
       <pubDate>Fri, 07 Aug 2026 18:05:12 +0000</pubDate>
       <sparkle:version>154</sparkle:version>
