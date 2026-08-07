@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.13.1</title>
+      <pubDate>Fri, 07 Aug 2026 20:32:05 +0000</pubDate>
+      <sparkle:version>175</sparkle:version>
+      <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes a bug where terminals to a Mac would not open. Thanks for the report.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.13.1/CloudStationConnect-1.13.1.zip"
+                 length="34068342"
+                 type="application/octet-stream"
+                 sparkle:edSignature="myZWQlRgDZD90U6wmJkzG9CaSTZ3WW3sU3QkR9AGpBiACE+rJ6AI3FZCxOKcmGZkEfm4h5+Vc48iejIDrMfPDg=="/>
+    </item>
+    <item>
       <title>1.13.0</title>
       <pubDate>Fri, 07 Aug 2026 20:21:28 +0000</pubDate>
       <sparkle:version>172</sparkle:version>
