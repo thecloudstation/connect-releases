@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.13.0</title>
+      <pubDate>Fri, 07 Aug 2026 20:21:28 +0000</pubDate>
+      <sparkle:version>172</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Saved commands now sync across your Mac and iPhone, and appear as buttons under the Mac terminal too. Terminals into your Mac use short-lived, identity-based credentials instead of a permanent key. Optional session recording for teams that need an audit trail.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.13.0/CloudStationConnect-1.13.0.zip"
+                 length="34068193"
+                 type="application/octet-stream"
+                 sparkle:edSignature="p9o/luq4P5ea497gTh2Mf3W50GoIuBWEMYRYfI0tUJOY9i2eS5pdsTWgFUJn7/VjztDpmpcwIJeRFBq785i7Cg=="/>
+    </item>
+    <item>
       <title>1.12.0</title>
       <pubDate>Fri, 07 Aug 2026 19:46:27 +0000</pubDate>
       <sparkle:version>165</sparkle:version>
