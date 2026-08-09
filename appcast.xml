@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.14.0</title>
+      <pubDate>Sun, 09 Aug 2026 16:43:28 +0000</pubDate>
+      <sparkle:version>177</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Auto-native networks (SPEC-v12.1): devices now tell the mesh which networks they are already inside, so a machine never receives a tunnel route that would hijack its own local network. No setup needed — it just works.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.14.0/CloudStationConnect-1.14.0.zip"
+                 length="34072650"
+                 type="application/octet-stream"
+                 sparkle:edSignature="vGGK595etxuT3ha0n3opAdXkBm7c4SkRP2OlilOnx8UdO3owQmnN76uJy1NvC02yM+1uPxgVVhGhmqevSjpYBg=="/>
+    </item>
+    <item>
       <title>1.13.1</title>
       <pubDate>Fri, 07 Aug 2026 20:32:05 +0000</pubDate>
       <sparkle:version>175</sparkle:version>
