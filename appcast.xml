@@ -6,6 +6,22 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.15.0</title>
+      <pubDate>Mon, 10 Aug 2026 09:01:28 +0000</pubDate>
+      <sparkle:version>216</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Agents: run Claude Code on any of your machines from the Mac or your phone.
+
+A new Agents action sits beside Terminal and Screen on each device. Conversations live on the machine doing the work, so you can start something at the desk, check it from the couch, and answer its questions from either — the same conversation, everywhere. Approvals are two clear choices, never 'always'. Conversations survive being left alone and survive an update.
+
+Also: the Infoblox lab is reachable again, and the tvOS app builds once more.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.15.0/CloudStationConnect-1.15.0.zip"
+                 length="34479784"
+                 type="application/octet-stream"
+                 sparkle:edSignature="4SOszdJMiBelGo3wtF1YAQ7EczW/VoKTs7UGruV6jFdSARItAxyKNHv29olLeOERijS49X12nMw4SXVPe7EXBA=="/>
+    </item>
+    <item>
       <title>1.14.0</title>
       <pubDate>Sun, 09 Aug 2026 16:43:28 +0000</pubDate>
       <sparkle:version>177</sparkle:version>
