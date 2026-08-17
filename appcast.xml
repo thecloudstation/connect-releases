@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.18.1</title>
+      <pubDate>Mon, 17 Aug 2026 14:03:48 +0000</pubDate>
+      <sparkle:version>230</sparkle:version>
+      <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[The agents window now has the same mic button as the phone: click it, talk, and your words appear in the message. Plus: hold right ⌘ to dictate anywhere on your Mac (turn it on from the menu-bar switch).]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.18.1/CloudStationConnect-1.18.1.zip"
+                 length="34554947"
+                 type="application/octet-stream"
+                 sparkle:edSignature="c5NZjZ74uQ0sGAPzVxNi+gBArL+g7J1Wb4MatH0rIoIHEQHMeNm8qpyYleqAVoGkXwpMrXb8BYI8kQb6t887DQ=="/>
+    </item>
+    <item>
       <title>1.18.0</title>
       <pubDate>Mon, 17 Aug 2026 13:47:59 +0000</pubDate>
       <sparkle:version>229</sparkle:version>
