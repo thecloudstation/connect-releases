@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.17.1</title>
+      <pubDate>Mon, 17 Aug 2026 12:29:49 +0000</pubDate>
+      <sparkle:version>226</sparkle:version>
+      <sparkle:shortVersionString>1.17.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[The model and mode choices on a conversation now survive restarts and naps: they stay visible, and a choice made while the agent was asleep is applied the moment it wakes.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.17.1/CloudStationConnect-1.17.1.zip"
+                 length="33627653"
+                 type="application/octet-stream"
+                 sparkle:edSignature="jKPN9T5du+eRf3DnazaKi1utMVYBuAYBq29QbFgnQ7521qj/4sfyJ5AU8EbwEYQpYRLEVw9SLMLxvfBXq1frBw=="/>
+    </item>
+    <item>
       <title>1.17.0</title>
       <pubDate>Mon, 17 Aug 2026 12:03:41 +0000</pubDate>
       <sparkle:version>225</sparkle:version>
