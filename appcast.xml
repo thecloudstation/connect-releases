@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.18.3</title>
+      <pubDate>Mon, 17 Aug 2026 14:20:48 +0000</pubDate>
+      <sparkle:version>232</sparkle:version>
+      <sparkle:shortVersionString>1.18.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Speak instead of type: the mic button in the agents window and hold-right-⌘ dictation everywhere. Fixes the crash when the microphone started.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.18.3/CloudStationConnect-1.18.3.zip"
+                 length="34555164"
+                 type="application/octet-stream"
+                 sparkle:edSignature="ZscXuiNvzniyzdVl5RaDZJ3k7zqLbwar9OioHmDtb+9V+C9U5VqiHhaav6KvTaCRKMMeo9bGO0nMSxaLD1jKDQ=="/>
+    </item>
+    <item>
       <title>1.18.1</title>
       <pubDate>Mon, 17 Aug 2026 14:03:48 +0000</pubDate>
       <sparkle:version>230</sparkle:version>
