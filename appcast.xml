@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.19.0</title>
+      <pubDate>Mon, 17 Aug 2026 20:36:29 +0000</pubDate>
+      <sparkle:version>243</sparkle:version>
+      <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Dictation: composer mic button on the Mac like the phone, mic permission handshake fixed (the app now appears in the Microphone privacy pane immediately). Conversations can stream to CloudStation: sessions started in this app register with your orbit and appear as live threads (opt-in via observability.json on the device).]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.19.0/CloudStationConnect-1.19.0.zip"
+                 length="34568031"
+                 type="application/octet-stream"
+                 sparkle:edSignature="aXgDbR4xCGCPCxtb/SDt6TbeiIL7HAydP7lc5seDL8wOr0lMFzYnE5eaIVn7n5XfVHhl7Nhq5QCjzLihp2AQCw=="/>
+    </item>
+    <item>
       <title>1.18.3</title>
       <pubDate>Mon, 17 Aug 2026 14:20:48 +0000</pubDate>
       <sparkle:version>232</sparkle:version>
