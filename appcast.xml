@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.17.0</title>
+      <pubDate>Mon, 17 Aug 2026 12:03:41 +0000</pubDate>
+      <sparkle:version>225</sparkle:version>
+      <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Conversations with your agents now open instantly: what you've already seen is remembered on this Mac, and only what's new syncs from the machine the agent runs on.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.17.0/CloudStationConnect-1.17.0.zip"
+                 length="34498168"
+                 type="application/octet-stream"
+                 sparkle:edSignature="eBL6r2IR2k/Rdpd03tYJ0m2uwfl7Th3TaM0BmoQcT124vlfaYvrmQM+tOtllmUNw04Inm5RQtymZpri78huLBQ=="/>
+    </item>
+    <item>
       <title>1.16.0</title>
       <pubDate>Mon, 17 Aug 2026 10:13:40 +0000</pubDate>
       <sparkle:version>222</sparkle:version>
