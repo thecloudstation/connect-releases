@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.16.0</title>
+      <pubDate>Mon, 17 Aug 2026 10:13:40 +0000</pubDate>
+      <sparkle:version>222</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Screen control now feels like a real trackpad: smooth scrolling that glides after a flick, pinch to zoom, and three-finger swipes to move between screens. Update your phone apps to get the new gestures.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.16.0/CloudStationConnect-1.16.0.zip"
+                 length="34479810"
+                 type="application/octet-stream"
+                 sparkle:edSignature="OzPAe38mr+i/UzpNrXrRu5K4vzr1RvjwETajR8AyvVzvjGuuEGaHDDaQxCkLj8O9zcAI5d2m9aaGVIkoobJ0Cw=="/>
+    </item>
+    <item>
       <title>1.15.0</title>
       <pubDate>Mon, 10 Aug 2026 09:01:28 +0000</pubDate>
       <sparkle:version>216</sparkle:version>
