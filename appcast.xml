@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.19.2</title>
+      <pubDate>Wed, 19 Aug 2026 12:18:43 +0000</pubDate>
+      <sparkle:version>251</sparkle:version>
+      <sparkle:shortVersionString>1.19.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Stability: the app now survives a macOS beta bug that could kill it after sleep/wake — crashes are logged with full context and the app relaunches itself within seconds, keeping your mesh connected.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.19.2/CloudStationConnect-1.19.2.zip"
+                 length="34587324"
+                 type="application/octet-stream"
+                 sparkle:edSignature="9xkJ2Cw76g3VEr6lM42vcb35L8SflXI1GgaqFOw6ZJ/u9gz5OyXDahnp14w/TNZouTm9Hd+0JLRNbmzWyXciBQ=="/>
+    </item>
+    <item>
       <title>1.19.1</title>
       <pubDate>Tue, 18 Aug 2026 04:29:54 +0000</pubDate>
       <sparkle:version>248</sparkle:version>
