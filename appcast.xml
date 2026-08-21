@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.20.0</title>
+      <pubDate>Fri, 21 Aug 2026 08:25:42 +0000</pubDate>
+      <sparkle:version>260</sparkle:version>
+      <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Claude conversations now leave a receipt you can act on: see exactly which files a turn changed, peek the edits in plain language, and put everything back with one tap if you don't like them. Questions from Claude now greet you on the Home page with three honest choices — including 'Allow while it works' so the same command isn't asked twice. And from your iPhone, share a screenshot straight to Claude on any of your machines — it queues if the machine is asleep and sends exactly once when it's back.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.20.0/CloudStationConnect-1.20.0.zip"
+                 length="34722516"
+                 type="application/octet-stream"
+                 sparkle:edSignature="PCFgO2zWJrgKXHQSha4wlVw629AQNLKKdd1kxtKmwgR+LAmW4LSvReUEEOarJaQyLgdJAslFyYBxqu31+kYQDg=="/>
+    </item>
+    <item>
       <title>1.19.3</title>
       <pubDate>Thu, 20 Aug 2026 09:56:39 +0000</pubDate>
       <sparkle:version>254</sparkle:version>
