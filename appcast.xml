@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.20.1</title>
+      <pubDate>Sun, 23 Aug 2026 14:37:44 +0000</pubDate>
+      <sparkle:version>265</sparkle:version>
+      <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Pictures you send from your iPhone now leave a small receipt under your message on the Mac too — so both screens agree on what Claude was given.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.20.1/CloudStationConnect-1.20.1.zip"
+                 length="34733470"
+                 type="application/octet-stream"
+                 sparkle:edSignature="Mfj6gFlbjn/LASdR3KVy76250qEqqBL8Kh6jeJW9MOU8UfBV0J1MIRsjMtJfzw18H1/gJ8af4qyvfQcEndRnAQ=="/>
+    </item>
+    <item>
       <title>1.20.0</title>
       <pubDate>Fri, 21 Aug 2026 08:25:42 +0000</pubDate>
       <sparkle:version>260</sparkle:version>
