@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.21.0</title>
+      <pubDate>Tue, 25 Aug 2026 09:27:11 +0000</pubDate>
+      <sparkle:version>282</sparkle:version>
+      <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Coding agents get two upgrades: conversations can follow your own working style automatically, and devices that run more than one agent now let you pick which one to talk to. Also smoother mode switching and quieter background behavior.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.21.0/CloudStationConnect-1.21.0.zip"
+                 length="34754449"
+                 type="application/octet-stream"
+                 sparkle:edSignature="2a3Av5ZHu4aZfRyRhyfrtn0/plq7ZigUlEvkpBPCzgbFQ1TuN7a5nTaBTg4Ka4awOO5vO89SEOvIWdQru+5GAQ=="/>
+    </item>
+    <item>
       <title>1.20.1</title>
       <pubDate>Sun, 23 Aug 2026 14:37:44 +0000</pubDate>
       <sparkle:version>265</sparkle:version>
