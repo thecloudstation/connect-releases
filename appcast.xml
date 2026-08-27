@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.22.3</title>
+      <pubDate>Thu, 27 Aug 2026 13:12:41 +0000</pubDate>
+      <sparkle:version>309</sparkle:version>
+      <sparkle:shortVersionString>1.22.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[A device someone shared with you is reachable again if you are also an admin. Admin visibility and an actual share were being answered by the same field, so being an admin quietly cost you file drop and screen control on devices your teammates had deliberately shared with you.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.22.3/CloudStationConnect-1.22.3.zip"
+                 length="34938843"
+                 type="application/octet-stream"
+                 sparkle:edSignature="O9vetLNgjhAA3lAScsgHxn7TXvuE8BQUSJulDRUNlIBkhjLBULjfLfOSb4ZyOvXClC9a+MCElH05oulojEKGBw=="/>
+    </item>
+    <item>
       <title>1.22.2</title>
       <pubDate>Thu, 27 Aug 2026 10:16:02 +0000</pubDate>
       <sparkle:version>307</sparkle:version>
