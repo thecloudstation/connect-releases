@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.22.2</title>
+      <pubDate>Thu, 27 Aug 2026 10:16:02 +0000</pubDate>
+      <sparkle:version>307</sparkle:version>
+      <sparkle:shortVersionString>1.22.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Connect your Claude account to CloudStation. Sign in once per machine from Settings, keep more than one account side by side, and choose who works each conversation. Give another device access to an account without a browser — the way to put a headless server to work as you. When an account runs out of room or gets signed out, the conversation moves to another one by itself and says so plainly, instead of showing a raw error; a shared sign-in repairs itself from whichever machine still has a working one.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.22.2/CloudStationConnect-1.22.2.zip"
+                 length="34938623"
+                 type="application/octet-stream"
+                 sparkle:edSignature="xe3TXYQ93FmRBTk4AuDN7E4JRlzSTi0YHdwlKodNGpJr0C8ZTVbiNAd2ZNnjXZIeWE6E0vtAXAZiOFApATpyDw=="/>
+    </item>
+    <item>
       <title>1.21.0</title>
       <pubDate>Tue, 25 Aug 2026 09:27:11 +0000</pubDate>
       <sparkle:version>282</sparkle:version>
