@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.24.0</title>
+      <pubDate>Fri, 28 Aug 2026 06:50:20 +0000</pubDate>
+      <sparkle:version>320</sparkle:version>
+      <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Pi joins Claude and Tau. Pick which agent runs a conversation when you start it — on Mac and on iPhone. Switching models part-way through a conversation now works with every agent; it used to fail outright on some of them. On iPhone the model list is searchable instead of one long menu.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.24.0/CloudStationConnect-1.24.0.zip"
+                 length="35138069"
+                 type="application/octet-stream"
+                 sparkle:edSignature="glWsdgqAXDme6YQLMt/Ogf0WMDpvK6rC2I0bewpEpg6o7179sBMFGfm2DEJfSVGFtJrRmHAPAUPTMnTLOs9ZAA=="/>
+    </item>
+    <item>
       <title>1.22.3</title>
       <pubDate>Thu, 27 Aug 2026 13:12:41 +0000</pubDate>
       <sparkle:version>309</sparkle:version>
