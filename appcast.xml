@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.24.1</title>
+      <pubDate>Fri, 28 Aug 2026 19:58:27 +0000</pubDate>
+      <sparkle:version>323</sparkle:version>
+      <sparkle:shortVersionString>1.24.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[When a Claude account runs out of room, the conversation now moves to another account and keeps its memory. It used to switch but start blank, so the agent forgot everything while the app still showed the history. Conversations on this Mac's own Claude sign-in switch the same way. A switch that had already run a tool no longer asks you to send your message again.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.24.1/CloudStationConnect-1.24.1.zip"
+                 length="35141612"
+                 type="application/octet-stream"
+                 sparkle:edSignature="sOBRSgWzvGHDbq0Pg3LcpO6CmJdlYySeM2nyNmMaEIPcGkH2Xp5k1xM1gp5G5btWfb3RF9Z1xNQmwRsqGpEcCw=="/>
+    </item>
+    <item>
       <title>1.24.0</title>
       <pubDate>Fri, 28 Aug 2026 06:50:20 +0000</pubDate>
       <sparkle:version>320</sparkle:version>
