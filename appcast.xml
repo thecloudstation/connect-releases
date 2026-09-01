@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.25.3</title>
+      <pubDate>Tue, 01 Sep 2026 22:27:47 +0000</pubDate>
+      <sparkle:version>331</sparkle:version>
+      <sparkle:shortVersionString>1.25.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes completed Pi Fusion workflows showing status without a result. Final answers now stay attached to the completion card with an inline preview and full-result view.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.25.3/CloudStationConnect-1.25.3.zip"
+                 length="35430688"
+                 type="application/octet-stream"
+                 sparkle:edSignature="4yf9eCfwZ+kCwelqGxkinx/W7XjoIDoYqtMoCfmfQW3n3tN1fN0NQkUDqqu6QsTYOOtcRL59LAE821Ps2/DUCA=="/>
+    </item>
+    <item>
       <title>1.25.2</title>
       <pubDate>Tue, 01 Sep 2026 21:10:42 +0000</pubDate>
       <sparkle:version>329</sparkle:version>
