@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.25.2</title>
+      <pubDate>Tue, 01 Sep 2026 21:10:42 +0000</pubDate>
+      <sparkle:version>329</sparkle:version>
+      <sparkle:shortVersionString>1.25.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Completes the Pi Fusion fix by collapsing mobile startup manifests, reasoning, and tool activity into readable work summaries.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.25.2/CloudStationConnect-1.25.2.zip"
+                 length="35426602"
+                 type="application/octet-stream"
+                 sparkle:edSignature="7EKs2NVXqTij5RxZ52htokL/mYtax/jC5fflS2/Bo8QGSbAdhzpkGhnPxX+b5lQbSFzOJZjx6vrS4LsjsYYWCg=="/>
+    </item>
+    <item>
       <title>1.25.1</title>
       <pubDate>Tue, 01 Sep 2026 21:01:48 +0000</pubDate>
       <sparkle:version>327</sparkle:version>
