@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.25.0</title>
+      <pubDate>Tue, 01 Sep 2026 19:25:08 +0000</pubDate>
+      <sparkle:version>325</sparkle:version>
+      <sparkle:shortVersionString>1.25.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Adds Pi Fusion workflow controls, model-stack selection, clear running-state cards, and provider-aware starts across Mac, iPhone, and Android.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.25.0/CloudStationConnect-1.25.0.zip"
+                 length="35329615"
+                 type="application/octet-stream"
+                 sparkle:edSignature="fo24s4avR+xzXwjwaoLHDPQMIXjiGWMriY6a1NzVJoRPxotlbheHq7lNbaGNQjKNZufGT8egsoXgWKWBBNrwBQ=="/>
+    </item>
+    <item>
       <title>1.24.2</title>
       <pubDate>Tue, 01 Sep 2026 10:50:45 +0000</pubDate>
       <sparkle:version>324</sparkle:version>
