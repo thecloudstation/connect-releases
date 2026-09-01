@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.24.2</title>
+      <pubDate>Tue, 01 Sep 2026 10:50:45 +0000</pubDate>
+      <sparkle:version>324</sparkle:version>
+      <sparkle:shortVersionString>1.24.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[A searchable model picker groups large model lists by provider, tool runs collapse into readable summaries, and Pi startup details no longer flood conversations.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.24.2/CloudStationConnect-1.24.2.zip"
+                 length="35265352"
+                 type="application/octet-stream"
+                 sparkle:edSignature="IEK3tJP51s1XjqRP51dJJm99agL9diMif2Hxe622r/nPP3ryBr8shPusLN7FrRomXTYv7m4rpMfVV1dDkL+EDQ=="/>
+    </item>
+    <item>
       <title>1.24.1</title>
       <pubDate>Fri, 28 Aug 2026 19:58:27 +0000</pubDate>
       <sparkle:version>323</sparkle:version>
