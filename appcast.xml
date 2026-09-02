@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.25.4</title>
+      <pubDate>Wed, 02 Sep 2026 09:44:47 +0000</pubDate>
+      <sparkle:version>333</sparkle:version>
+      <sparkle:shortVersionString>1.25.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Restores the full Pi Fusion workflow experience: clearly separates Main chat from multi-model Harness runs, adds read-only Analyze and Synthesize, explains each workflow outcome, and preserves debate rounds and per-model conclusions as expandable native panels.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.25.4/CloudStationConnect-1.25.4.zip"
+                 length="35455629"
+                 type="application/octet-stream"
+                 sparkle:edSignature="gpLhpS4/8qieVv7Hc0pI6GI2MtWQysw2n84EzaMJVPIZSUbw4pq540IjLihFS3yNHaGdgpAAbo4fiaHIZt3kDA=="/>
+    </item>
+    <item>
       <title>1.25.3</title>
       <pubDate>Tue, 01 Sep 2026 22:27:47 +0000</pubDate>
       <sparkle:version>331</sparkle:version>
