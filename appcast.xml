@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.25.6</title>
+      <pubDate>Wed, 02 Sep 2026 12:43:09 +0000</pubDate>
+      <sparkle:version>338</sparkle:version>
+      <sparkle:shortVersionString>1.25.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Keeps running coding agents alive while CloudStation Connect restarts or updates.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.25.6/CloudStationConnect-1.25.6.zip"
+                 length="35476111"
+                 type="application/octet-stream"
+                 sparkle:edSignature="R/j4cestXoJTQE7wqzYOhuBevyw+ua5xDkgnmhknZMvfs533JCiDk0u6TwJvQMllACr7ezG7SjIgPg0/bXfEDA=="/>
+    </item>
+    <item>
       <title>1.25.5</title>
       <pubDate>Wed, 02 Sep 2026 11:59:30 +0000</pubDate>
       <sparkle:version>335</sparkle:version>
