@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.25.9</title>
+      <pubDate>Wed, 02 Sep 2026 19:51:30 +0000</pubDate>
+      <sparkle:version>342</sparkle:version>
+      <sparkle:shortVersionString>1.25.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Agent conversations keep running through short mesh reconnects, no longer repeat their history after a pause, never stop recording, and show the same transcript on every device.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.25.9/CloudStationConnect-1.25.9.zip"
+                 length="35499694"
+                 type="application/octet-stream"
+                 sparkle:edSignature="d0QcOW6q/CDZ5/ehLQaVwxdakFPY9j8tEiXG9N4fOT2TRypvfnOyNMkWI+Q12KN/3KQvDDQQbd1rWSlM6ZLfCA=="/>
+    </item>
+    <item>
       <title>1.25.8</title>
       <pubDate>Wed, 02 Sep 2026 15:55:47 +0000</pubDate>
       <sparkle:version>340</sparkle:version>
