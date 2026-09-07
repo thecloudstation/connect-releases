@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.26.0</title>
+      <pubDate>Mon, 07 Sep 2026 09:10:58 +0000</pubDate>
+      <sparkle:version>347</sparkle:version>
+      <sparkle:shortVersionString>1.26.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Room per Claude account and Codex: usage bars in Settings, and a notch showing room and live agents on MacBooks]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.26.0/CloudStationConnect-1.26.0.zip"
+                 length="35626574"
+                 type="application/octet-stream"
+                 sparkle:edSignature="T/Xt8ViKQH/TYv/a+Xt9uYdFt8pF/wk7sgot1q4PZ7EQDe7PXEbdFH1v0Ua9fYWIhPVcsEF1SU270KSjpUG8BQ=="/>
+    </item>
+    <item>
       <title>1.25.11</title>
       <pubDate>Mon, 07 Sep 2026 07:46:07 +0000</pubDate>
       <sparkle:version>345</sparkle:version>
