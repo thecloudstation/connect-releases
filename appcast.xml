@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.25.11</title>
+      <pubDate>Mon, 07 Sep 2026 07:46:07 +0000</pubDate>
+      <sparkle:version>345</sparkle:version>
+      <sparkle:shortVersionString>1.25.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Codex conversations now pick up where they left off after the app or the mesh pauses them. Previously a paused Codex session came back empty.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.25.11/CloudStationConnect-1.25.11.zip"
+                 length="35500396"
+                 type="application/octet-stream"
+                 sparkle:edSignature="nA7aQJK+u1OouIvQdX2/HBvea4CyYrAev5H8UARp6YGlJtRnVyjJXUx1k5JeHGAIUMyFvWts0HDnaF7RBwfgAg=="/>
+    </item>
+    <item>
       <title>1.25.10</title>
       <pubDate>Sun, 06 Sep 2026 10:43:58 +0000</pubDate>
       <sparkle:version>344</sparkle:version>
