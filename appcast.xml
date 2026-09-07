@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.26.3</title>
+      <pubDate>Mon, 07 Sep 2026 13:55:50 +0000</pubDate>
+      <sparkle:version>353</sparkle:version>
+      <sparkle:shortVersionString>1.26.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[The Mac notch now returns to its normal camera footprint when no conversations are working or waiting for you. Hover still opens conversations and account usage. Working counts and needs-you alerts remain visible while active.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.26.3/CloudStationConnect-1.26.3.zip"
+                 length="34831272"
+                 type="application/octet-stream"
+                 sparkle:edSignature="DY+BXe/X1EjKfmzqoGxA1ESwtxHISMQyRgPobP0ncZYpHug9qBrvCV7rrkq5mRzSS0dc3X17xolQP7/gcilZBQ=="/>
+    </item>
+    <item>
       <title>1.26.2</title>
       <pubDate>Mon, 07 Sep 2026 13:15:48 +0000</pubDate>
       <sparkle:version>352</sparkle:version>
