@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.26.4</title>
+      <pubDate>Tue, 08 Sep 2026 08:37:56 +0000</pubDate>
+      <sparkle:version>359</sparkle:version>
+      <sparkle:shortVersionString>1.26.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Accounts you haven't used in a while keep showing their real room. The app now renews their sign-in itself instead of freezing on old numbers, checks idle accounts every 10 minutes, and each account's menu has Read again.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.26.4/CloudStationConnect-1.26.4.zip"
+                 length="35832636"
+                 type="application/octet-stream"
+                 sparkle:edSignature="XqEmfTCAVnch0Ey+gu4sGlbWRLLGSrw0xDQcvxk56UZ29Pe9HFzEUuxowl5oUqRu0SAmFg8TRjziPUTftc5pDQ=="/>
+    </item>
+    <item>
       <title>1.26.3</title>
       <pubDate>Mon, 07 Sep 2026 13:55:50 +0000</pubDate>
       <sparkle:version>353</sparkle:version>
