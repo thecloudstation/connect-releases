@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.28.1</title>
+      <pubDate>Sat, 12 Sep 2026 20:45:47 +0000</pubDate>
+      <sparkle:version>377</sparkle:version>
+      <sparkle:shortVersionString>1.28.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fix a crash when setting up the local coding agent on a newly installed Mac. The app now loads the bundled runtime from the installed application and shows an error if its files are missing. Release checks now verify the packaged app without access to the development checkout.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.28.1/CloudStationConnect-1.28.1.zip"
+                 length="95398079"
+                 type="application/octet-stream"
+                 sparkle:edSignature="fU2b9G7U4SQh61GO0a0YoEQZTbArAiPYLOBWY/gQvHW1RwDK2FKk0XkyOJ0/fH7pHML5t1ONPvifhr5zBpYPAQ=="/>
+    </item>
+    <item>
       <title>1.28.0</title>
       <pubDate>Sat, 12 Sep 2026 14:06:51 +0000</pubDate>
       <sparkle:version>376</sparkle:version>
