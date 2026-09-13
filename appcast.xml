@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.28.2</title>
+      <pubDate>Sun, 13 Sep 2026 14:09:25 +0000</pubDate>
+      <sparkle:version>378</sparkle:version>
+      <sparkle:shortVersionString>1.28.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[The notch is off unless you turn it on. Open the menu-bar icon and flip "Show room and live agents in the notch" to bring it back on a MacBook with a camera housing. If you had already chosen on or off, your choice stays.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.28.2/CloudStationConnect-1.28.2.zip"
+                 length="96265582"
+                 type="application/octet-stream"
+                 sparkle:edSignature="vb8ojuXer8iAC8CXe3NrwIh6Pl2XJHE7FoFB7wAuwekOziyU6pqNuMQbv2Tt4VzbMlQ8pMx/SeCUaW3A3+0KCA=="/>
+    </item>
+    <item>
       <title>1.28.1</title>
       <pubDate>Sat, 12 Sep 2026 20:45:47 +0000</pubDate>
       <sparkle:version>377</sparkle:version>
