@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.28.5</title>
+      <pubDate>Fri, 18 Sep 2026 10:37:20 +0000</pubDate>
+      <sparkle:version>382</sparkle:version>
+      <sparkle:shortVersionString>1.28.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Files the agent mentions now open from any folder, including the reports agents write to /tmp. Paths starting with ~/ open from your home folder.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.28.5/CloudStationConnect-1.28.5.zip"
+                 length="95324724"
+                 type="application/octet-stream"
+                 sparkle:edSignature="3IMNepcJJzWJl25QOsi7dwUBDaNDUkFV6DYt0h71unG+/IenKOztm4OWixuL9arxkoWtNE2JwFhZumyGQs7+AA=="/>
+    </item>
+    <item>
       <title>1.28.4</title>
       <pubDate>Fri, 18 Sep 2026 10:08:09 +0000</pubDate>
       <sparkle:version>381</sparkle:version>
