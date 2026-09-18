@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.28.4</title>
+      <pubDate>Fri, 18 Sep 2026 10:08:09 +0000</pubDate>
+      <sparkle:version>381</sparkle:version>
+      <sparkle:shortVersionString>1.28.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[A file the agent mentions is now a chip you can click. It opens beside the conversation, which keeps its place: press Escape or Back to return. Specs and notes read as written, with a switch for the plain text and a button to open them in your editor. Files on another machine open too, read from that machine.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.28.4/CloudStationConnect-1.28.4.zip"
+                 length="95324788"
+                 type="application/octet-stream"
+                 sparkle:edSignature="pdjiw0nX01rpVICAZ3qj4xS68UHZwLFQXzVz5AtNOvyeszf+DF+3ThTKmNdmI4hlF/W1nroqSp0YRRwy4TcICQ=="/>
+    </item>
+    <item>
       <title>1.28.3</title>
       <pubDate>Thu, 17 Sep 2026 14:50:38 +0000</pubDate>
       <sparkle:version>379</sparkle:version>
