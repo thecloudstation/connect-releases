@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.28.6</title>
+      <pubDate>Mon, 21 Sep 2026 11:21:14 +0000</pubDate>
+      <sparkle:version>394</sparkle:version>
+      <sparkle:shortVersionString>1.28.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Phones on slow connections can reach Agents again.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.28.6/CloudStationConnect-1.28.6.zip"
+                 length="95362980"
+                 type="application/octet-stream"
+                 sparkle:edSignature="DIsiJTs8jOWdjI/hdmGwMDvRpL8m/oA+kxByruYgVqwSz+1uEU0K20nyyVloWuC5LwT/WUlaOrnQiC8ld50tDw=="/>
+    </item>
+    <item>
       <title>1.28.5</title>
       <pubDate>Fri, 18 Sep 2026 10:37:20 +0000</pubDate>
       <sparkle:version>382</sparkle:version>
