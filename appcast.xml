@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.29.1</title>
+      <pubDate>Fri, 25 Sep 2026 09:15:25 +0000</pubDate>
+      <sparkle:version>401</sparkle:version>
+      <sparkle:shortVersionString>1.29.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Lock your Mac from your phone, next to Unlock. Screen sharing now answers only over the mesh, never on the local network. Signing out forgets the phone-unlock setup.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.29.1/CloudStationConnect-1.29.1.zip"
+                 length="95378319"
+                 type="application/octet-stream"
+                 sparkle:edSignature="cAer2T5o7Fhx9UFA5RFc+a7Wpi8Jp/Oi0aWtaVPSUtu9AL/fL2OwCzi+TsGQPyp+KBP3AgvUxhQyqWW6MvwdCg=="/>
+    </item>
+    <item>
       <title>1.29.0</title>
       <pubDate>Fri, 25 Sep 2026 09:00:18 +0000</pubDate>
       <sparkle:version>400</sparkle:version>
