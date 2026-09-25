@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.29.0</title>
+      <pubDate>Fri, 25 Sep 2026 09:00:18 +0000</pubDate>
+      <sparkle:version>400</sparkle:version>
+      <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Unlock your Mac from your phone. Open the Mac's page in CloudStation Connect on iPhone, set it up once with the Mac's password, then unlock with Face ID. The Mac keeps the password scrambled; the key stays on your phone.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.29.0/CloudStationConnect-1.29.0.zip"
+                 length="95375364"
+                 type="application/octet-stream"
+                 sparkle:edSignature="/yXRBWaJAIZag99K/IWnMgUkDQD85nzNVrltgDijAs+ftdLe2/adDaO8qIRfZXV4m5Lgd+2WGJvurzxR8FEAAA=="/>
+    </item>
+    <item>
       <title>1.28.6</title>
       <pubDate>Mon, 21 Sep 2026 11:21:14 +0000</pubDate>
       <sparkle:version>394</sparkle:version>
