@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.29.2</title>
+      <pubDate>Fri, 25 Sep 2026 10:03:55 +0000</pubDate>
+      <sparkle:version>403</sparkle:version>
+      <sparkle:shortVersionString>1.29.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[The menu-bar panel keeps its rounded shape and shadow whether or not the app is in front, and no longer leaves a blank strip under the last row.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.29.2/CloudStationConnect-1.29.2.zip"
+                 length="95385324"
+                 type="application/octet-stream"
+                 sparkle:edSignature="1ma/0zk02sh2jL/Ql4JZzGY81ki1S6M0s2uW2a5feRbvncF/5qdYw0DAItrZkfQOHc9eXvc1WxZC92ddSvYdDg=="/>
+    </item>
+    <item>
       <title>1.29.1</title>
       <pubDate>Fri, 25 Sep 2026 09:15:25 +0000</pubDate>
       <sparkle:version>401</sparkle:version>
