@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.29.3</title>
+      <pubDate>Mon, 28 Sep 2026 07:44:36 +0000</pubDate>
+      <sparkle:version>405</sparkle:version>
+      <sparkle:shortVersionString>1.29.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Agent sessions no longer stop mid-work, and a session that wakes up keeps its permission mode.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.29.3/CloudStationConnect-1.29.3.zip"
+                 length="95385896"
+                 type="application/octet-stream"
+                 sparkle:edSignature="ypyxWMue8V2WalDN1BSSK8Pdof2itzdEXLkMrAsTyeAtGEX8mfdywpnUGUVvqXebSkUkksmojcYPvNDKswUtBQ=="/>
+    </item>
+    <item>
       <title>1.29.2</title>
       <pubDate>Fri, 25 Sep 2026 10:03:55 +0000</pubDate>
       <sparkle:version>403</sparkle:version>
