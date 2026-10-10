@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.29.4</title>
+      <pubDate>Sat, 10 Oct 2026 11:24:06 +0000</pubDate>
+      <sparkle:version>409</sparkle:version>
+      <sparkle:shortVersionString>1.29.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Your Mac and iPhone talk directly again on the same Wi-Fi. After your phone briefly left Wi-Fi, the Mac could wrongly decide the network was blocking it and send all traffic through a distant relay for days, which made the connection slow and drop out. That decision now expires on its own, and a phone that simply left no longer triggers it.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.29.4/CloudStationConnect-1.29.4.zip"
+                 length="95377353"
+                 type="application/octet-stream"
+                 sparkle:edSignature="87MrmdoNgFmxC5wPwFhQAcB76s8LnisqCQD+pe99ZG0s3MkTGgn7reIXRVhzxiy4g/7/INw/Fi7b0bfXVTW1DA=="/>
+    </item>
+    <item>
       <title>1.29.3</title>
       <pubDate>Mon, 28 Sep 2026 07:44:36 +0000</pubDate>
       <sparkle:version>405</sparkle:version>
