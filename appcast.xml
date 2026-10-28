@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.30.0</title>
+      <pubDate>Wed, 28 Oct 2026 15:33:10 +0000</pubDate>
+      <sparkle:version>418</sparkle:version>
+      <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Residential proxy: let a sandbox's scraping tools reach the web through one of your home machines. Turn it on in a home machine's device panel (Use as residential proxy), then choose it on the sandbox. Only tools that ask use it; AI, chat and files stay direct.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.30.0/CloudStationConnect-1.30.0.zip"
+                 length="95476768"
+                 type="application/octet-stream"
+                 sparkle:edSignature="qclRf+yhWs8mL1YpUlzYnRZYhDQ4aFg7jZciMMsfg2JoAQbDvGdvzvnnXHQgXPnm9Wcr+cwyNA8svZ0erQvnCg=="/>
+    </item>
+    <item>
       <title>1.29.5</title>
       <pubDate>Wed, 28 Oct 2026 12:49:00 +0000</pubDate>
       <sparkle:version>417</sparkle:version>
