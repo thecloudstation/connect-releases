@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.31.0</title>
+      <pubDate>Tue, 10 Nov 2026 16:32:05 +0000</pubDate>
+      <sparkle:version>422</sparkle:version>
+      <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Codex now works with several accounts, like Claude. Add another Codex account from Settings, pick which one works a new conversation, and let conversations move to an account with room when one runs out. This Mac's own Codex sign-in stays the default. Settings also shows who Codex is signed in as and lets you sign in again from the app.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.31.0/CloudStationConnect-1.31.0.zip"
+                 length="95555499"
+                 type="application/octet-stream"
+                 sparkle:edSignature="Pgzvq65Ayi5vJSMGzlYnaebg3Jtp3nRRkHmBakxmFBvVwz5nW/MrqisB3mMiDiElggBAzGN8eUMLNl9AK688Dg=="/>
+    </item>
+    <item>
       <title>1.30.0</title>
       <pubDate>Wed, 28 Oct 2026 15:33:10 +0000</pubDate>
       <sparkle:version>418</sparkle:version>
