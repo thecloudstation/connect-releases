@@ -6,6 +6,18 @@
     <description>Updates for CloudStation Connect</description>
     <language>en</language>
     <item>
+      <title>1.31.1</title>
+      <pubDate>Fri, 13 Nov 2026 10:27:08 +0000</pubDate>
+      <sparkle:version>423</sparkle:version>
+      <sparkle:shortVersionString>1.31.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fix false Claude account sign-outs caused by temporary Cloudflare and network errors. Reconnect existing Claude accounts without removing conversations. Clarify browser sign-in progress, retry expired sign-ins, and prevent truncated login links.]]></description>
+      <enclosure url="https://github.com/thecloudstation/connect-releases/releases/download/v1.31.1/CloudStationConnect-1.31.1.zip"
+                 length="95568304"
+                 type="application/octet-stream"
+                 sparkle:edSignature="CPBTR412zDn2nOiUvQEajxjFGYAwKxSRq9TyAzZZsHPMIpTWOmazEmHSBapOqS68cgGKop0eELX9ksVBL7TjBQ=="/>
+    </item>
+    <item>
       <title>1.31.0</title>
       <pubDate>Tue, 10 Nov 2026 16:32:05 +0000</pubDate>
       <sparkle:version>422</sparkle:version>
